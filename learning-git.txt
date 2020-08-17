@@ -1,2 +1,2 @@
 In process of learning github
-creating merge conflict
+this is edited in github
